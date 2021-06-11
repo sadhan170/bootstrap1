@@ -1,0 +1,26 @@
+.service{
+    border-radius:10px;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 91%);
+}
+.col-12{
+
+}
+.col-12 h5{
+    color: blue;
+    }
+    .col-12 h1{
+        color: burlywood;
+    }
+
+    .meta{}
+    .meta li{}
+    .meta li a{
+    text-decoration: none;
+    color: #6f6b6b;
+    font-size: 14px;
+    font-weight: 500;
+}
+    .meta span{
+    color: #888;
+    font-size: 14px;
+}
